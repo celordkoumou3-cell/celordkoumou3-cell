@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there, I'm Celord Koumou 👋
 
-<!--
-**celordkoumou3-cell/celordkoumou3-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Data Science Student @ ECES University - Brazzaville, CG
+📊 Passionate about Data, AI & Machine Learning
+🌍 Based in Congo Brazzaville
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack
+`Python` `SQL` `Pandas` `NumPy` `Git` `GitHub`
+
+#### 🌱 Currently Learning
+- Machine Learning & Data Analysis
+- Data Visualization
+- Python for Data Science
+
+#### 📫 Connect with me
+- LinkedIn: [linkedin.com/in/celord-koumou](https://www.linkedin.com/in/celord-koumou)
+- Location: Brazzaville, Congo
+
+---
+⚡ *“Data is the new oil, but only if you know how to refine it.”*
